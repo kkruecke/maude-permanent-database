@@ -1,3 +1,4 @@
-# medwatch-database
+# maude_permanent database
 
-Both versions, the zipped and tar.gz'ed versions, are identical.
+Includes medwatch_report table
+
