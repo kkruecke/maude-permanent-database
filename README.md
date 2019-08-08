@@ -1,4 +1,3 @@
-# maude_permanent database
+# maude\_permanent database
 
-Includes medwatch_report table from maude_permanent database
-
+Includes medwatch\_report table from maude\_permanent database
